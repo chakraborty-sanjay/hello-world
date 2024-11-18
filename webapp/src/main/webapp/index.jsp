@@ -24,7 +24,7 @@
         <span>Remember me</span>
         <br><br>
         Forgot <a href="#">Password</a>
-        <h1>Love you maa and baba</h1>
+        <h1>Love you maa and papa</h1>
     </form>
 </div>
 </body>
